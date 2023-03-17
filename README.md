@@ -1,2 +1,2 @@
 # Maria's-Portfolio
-A collection of my past projects
+Hi my name is Maria Reyna and this is a collection of my past projects I have done.
