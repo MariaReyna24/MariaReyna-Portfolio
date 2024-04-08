@@ -1,5 +1,5 @@
 # Maria Reyna's Portfolio
-Hi my name is Maria Reyna and this is a collection of my past projects I have done:
+Hello, I'm Maria Reyna, an iOS developer with 2 years of experience. I've completed 85 credits towards a Computer Science degree at Wayne State University in Detroit, MI, where I gained foundational knowledge in software development and computer systems. Here's a collection of my Swift projects.
 
 ### Decision Maker App: 
 The Decision Maker app is one of my first projects developed using Swift. It allows users to input up to six options and randomly selects one of them, making it a handy tool for quick decision-making. I plan on returning to this app at one point to make it on the app store
